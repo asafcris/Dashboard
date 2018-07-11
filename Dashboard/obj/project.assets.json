@@ -4694,6 +4694,16 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
+      },
+      "Dashboard.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Dashboard.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dashboard.Domain.dll": {}
+        }
       }
     }
   },
@@ -12521,11 +12531,17 @@
         "windowsazure.storage.8.1.4.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
+    },
+    "Dashboard.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Dashboard.Domain/Dashboard.Domain.csproj",
+      "msbuildProject": "../Dashboard.Domain/Dashboard.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "AutoMapper >= 3.1.1",
+      "Dashboard.Domain >= 1.0.0",
       "FluentNHibernate >= 2.0.3",
       "Microsoft.AspNetCore.All >= 2.0.8",
       "Microsoft.NETCore.App >= 2.0.0",
@@ -12540,11 +12556,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bpm2\\Documents\\Repositorio GItHub\\Dashboard\\Dashboard\\Dashboard\\Dashboard.csproj",
+      "projectUniqueName": "C:\\Users\\bpm2\\Documents\\Repositorio GItHub\\Dashboard\\Dashboard\\Dashboard.csproj",
       "projectName": "Dashboard",
-      "projectPath": "C:\\Users\\bpm2\\Documents\\Repositorio GItHub\\Dashboard\\Dashboard\\Dashboard\\Dashboard.csproj",
+      "projectPath": "C:\\Users\\bpm2\\Documents\\Repositorio GItHub\\Dashboard\\Dashboard\\Dashboard.csproj",
       "packagesPath": "C:\\Users\\bpm2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bpm2\\Documents\\Repositorio GItHub\\Dashboard\\Dashboard\\Dashboard\\obj\\",
+      "outputPath": "C:\\Users\\bpm2\\Documents\\Repositorio GItHub\\Dashboard\\Dashboard\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12562,7 +12578,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\bpm2\\Documents\\Repositorio GItHub\\Dashboard\\Dashboard.Domain\\Dashboard.Domain.csproj": {
+              "projectPath": "C:\\Users\\bpm2\\Documents\\Repositorio GItHub\\Dashboard\\Dashboard.Domain\\Dashboard.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

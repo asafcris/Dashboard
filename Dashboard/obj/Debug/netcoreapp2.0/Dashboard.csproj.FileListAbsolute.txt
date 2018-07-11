@@ -6,3 +6,17 @@ C:\Users\bpm2\source\repos\Dashboard\Dashboard\obj\Debug\netcoreapp2.0\Dashboard
 C:\Users\bpm2\source\repos\Dashboard\Dashboard\obj\Debug\netcoreapp2.0\Dashboard.csproj.CoreCompileInputs.cache
 C:\Users\bpm2\source\repos\Dashboard\Dashboard\obj\Debug\netcoreapp2.0\Dashboard.AssemblyInfoInputs.cache
 C:\Users\bpm2\source\repos\Dashboard\Dashboard\obj\Debug\netcoreapp2.0\Dashboard.AssemblyInfo.cs
+C:\Users\bpm2\Documents\Repositorio GItHub\Dashboard\Dashboard\bin\Debug\netcoreapp2.0\Dashboard.deps.json
+C:\Users\bpm2\Documents\Repositorio GItHub\Dashboard\Dashboard\bin\Debug\netcoreapp2.0\Dashboard.runtimeconfig.json
+C:\Users\bpm2\Documents\Repositorio GItHub\Dashboard\Dashboard\bin\Debug\netcoreapp2.0\Dashboard.runtimeconfig.dev.json
+C:\Users\bpm2\Documents\Repositorio GItHub\Dashboard\Dashboard\bin\Debug\netcoreapp2.0\Dashboard.dll
+C:\Users\bpm2\Documents\Repositorio GItHub\Dashboard\Dashboard\bin\Debug\netcoreapp2.0\Dashboard.pdb
+C:\Users\bpm2\Documents\Repositorio GItHub\Dashboard\Dashboard\obj\Debug\netcoreapp2.0\Dashboard.csprojAssemblyReference.cache
+C:\Users\bpm2\Documents\Repositorio GItHub\Dashboard\Dashboard\obj\Debug\netcoreapp2.0\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\bpm2\Documents\Repositorio GItHub\Dashboard\Dashboard\obj\Debug\netcoreapp2.0\Dashboard.AssemblyInfoInputs.cache
+C:\Users\bpm2\Documents\Repositorio GItHub\Dashboard\Dashboard\obj\Debug\netcoreapp2.0\Dashboard.AssemblyInfo.cs
+C:\Users\bpm2\Documents\Repositorio GItHub\Dashboard\Dashboard\obj\Debug\netcoreapp2.0\Dashboard.dll
+C:\Users\bpm2\Documents\Repositorio GItHub\Dashboard\Dashboard\obj\Debug\netcoreapp2.0\Dashboard.pdb
+C:\Users\bpm2\Documents\Repositorio GItHub\Dashboard\Dashboard\bin\Debug\netcoreapp2.0\Dashboard.Domain.dll
+C:\Users\bpm2\Documents\Repositorio GItHub\Dashboard\Dashboard\bin\Debug\netcoreapp2.0\Dashboard.Domain.pdb
+C:\Users\bpm2\Documents\Repositorio GItHub\Dashboard\Dashboard\obj\Debug\netcoreapp2.0\Dashboard.csproj.CopyComplete

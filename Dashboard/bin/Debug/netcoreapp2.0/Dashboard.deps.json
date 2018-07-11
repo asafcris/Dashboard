@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "1fc4d5ec0caf9f1a331d193111da92ee3f78adcd"
+    "signature": "b6b10a8fe3734dd44b829115e7abeeb34bfbec77"
   },
   "compilationOptions": {
     "defines": [
@@ -24,9 +24,11 @@
       "Dashboard/1.0.0": {
         "dependencies": {
           "AutoMapper": "3.1.1",
+          "Dashboard.Domain": "1.0.0",
           "FluentNHibernate": "2.0.3",
           "Microsoft.AspNetCore.All": "2.0.8",
           "Microsoft.NETCore.App": "2.0.0",
+          "NHibernate": "4.0.4.4000",
           "Newtonsoft.Json": "11.0.2"
         },
         "runtime": {
@@ -48,7 +50,7 @@
       },
       "FluentNHibernate/2.0.3": {
         "dependencies": {
-          "NHibernate": "4.0.0.4000"
+          "NHibernate": "4.0.4.4000"
         },
         "runtime": {
           "lib/net40/FluentNHibernate.dll": {}
@@ -2369,7 +2371,7 @@
           "lib/netstandard1.3/Newtonsoft.Json.Bson.dll": {}
         }
       },
-      "NHibernate/4.0.0.4000": {
+      "NHibernate/4.0.4.4000": {
         "dependencies": {
           "Iesi.Collections": "4.0.0.4000"
         },
@@ -3769,6 +3771,14 @@
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
       },
+      "Dashboard.Domain/1.0.0": {
+        "runtime": {
+          "Dashboard.Domain.dll": {}
+        },
+        "compile": {
+          "Dashboard.Domain.dll": {}
+        }
+      },
       "Microsoft.NETCore.App/2.0.0": {
         "dependencies": {
           "Microsoft.NETCore.DotNetHostPolicy": "2.0.0",
@@ -5122,12 +5132,12 @@
       "path": "newtonsoft.json.bson/1.0.1",
       "hashPath": "newtonsoft.json.bson.1.0.1.nupkg.sha512"
     },
-    "NHibernate/4.0.0.4000": {
+    "NHibernate/4.0.4.4000": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-zHwxTNHQM+ilc6/vKuFYjmRms+Iw6wCL0LsOiR9Imu+Z1sK0MO0gmSlaeR6gTy4cUNjqPZrU8ym5KPBwTp4Ebg==",
-      "path": "nhibernate/4.0.0.4000",
-      "hashPath": "nhibernate.4.0.0.4000.nupkg.sha512"
+      "sha512": "sha512-Me3y8Q1NPEfiTRuisgayLs5nm7J4hoGhvXT/hD5w78WajPFfsb+qNP2ld+bNimpvW0U/BDSaZAUS0FKl5+ty/w==",
+      "path": "nhibernate/4.0.4.4000",
+      "hashPath": "nhibernate.4.0.4.4000.nupkg.sha512"
     },
     "Remotion.Linq/2.1.1": {
       "type": "package",
@@ -5954,6 +5964,11 @@
       "sha512": "sha512-W6ZZ0/o7+3Qb77mRAQyLjPudHG3OMeeQ4p9yY13PUdJArmRCx2cLMm5F4tpIjJXxzHC0ew0oK7DMDGILMdfCnw==",
       "path": "windowsazure.storage/8.1.4",
       "hashPath": "windowsazure.storage.8.1.4.nupkg.sha512"
+    },
+    "Dashboard.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.NETCore.App/2.0.0": {
       "type": "package",

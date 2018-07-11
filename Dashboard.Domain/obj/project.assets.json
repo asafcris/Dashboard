@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bpm2\\Documents\\Repositorio GItHub\\Dashboard\\Dashboard\\Dashboard.Domain\\Dashboard.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\bpm2\\Documents\\Repositorio GItHub\\Dashboard\\Dashboard.Domain\\Dashboard.Domain.csproj",
       "projectName": "Dashboard.Domain",
-      "projectPath": "C:\\Users\\bpm2\\Documents\\Repositorio GItHub\\Dashboard\\Dashboard\\Dashboard.Domain\\Dashboard.Domain.csproj",
+      "projectPath": "C:\\Users\\bpm2\\Documents\\Repositorio GItHub\\Dashboard\\Dashboard.Domain\\Dashboard.Domain.csproj",
       "packagesPath": "C:\\Users\\bpm2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bpm2\\Documents\\Repositorio GItHub\\Dashboard\\Dashboard\\Dashboard.Domain\\obj\\",
+      "outputPath": "C:\\Users\\bpm2\\Documents\\Repositorio GItHub\\Dashboard\\Dashboard.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

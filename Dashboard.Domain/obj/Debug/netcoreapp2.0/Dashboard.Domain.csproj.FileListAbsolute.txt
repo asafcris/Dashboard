@@ -1,0 +1,9 @@
+C:\Users\bpm2\Documents\Repositorio GItHub\Dashboard\Dashboard.Domain\bin\Debug\netcoreapp2.0\Dashboard.Domain.deps.json
+C:\Users\bpm2\Documents\Repositorio GItHub\Dashboard\Dashboard.Domain\bin\Debug\netcoreapp2.0\Dashboard.Domain.dll
+C:\Users\bpm2\Documents\Repositorio GItHub\Dashboard\Dashboard.Domain\bin\Debug\netcoreapp2.0\Dashboard.Domain.pdb
+C:\Users\bpm2\Documents\Repositorio GItHub\Dashboard\Dashboard.Domain\obj\Debug\netcoreapp2.0\Dashboard.Domain.csprojAssemblyReference.cache
+C:\Users\bpm2\Documents\Repositorio GItHub\Dashboard\Dashboard.Domain\obj\Debug\netcoreapp2.0\Dashboard.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bpm2\Documents\Repositorio GItHub\Dashboard\Dashboard.Domain\obj\Debug\netcoreapp2.0\Dashboard.Domain.AssemblyInfoInputs.cache
+C:\Users\bpm2\Documents\Repositorio GItHub\Dashboard\Dashboard.Domain\obj\Debug\netcoreapp2.0\Dashboard.Domain.AssemblyInfo.cs
+C:\Users\bpm2\Documents\Repositorio GItHub\Dashboard\Dashboard.Domain\obj\Debug\netcoreapp2.0\Dashboard.Domain.dll
+C:\Users\bpm2\Documents\Repositorio GItHub\Dashboard\Dashboard.Domain\obj\Debug\netcoreapp2.0\Dashboard.Domain.pdb
